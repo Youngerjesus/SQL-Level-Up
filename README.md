@@ -8,3 +8,4 @@
 
 - [DBMS 와 버퍼](docs/buffer.md)
 
+- [DBMS 와 실행 계획](docs/execution-plan.md)
