@@ -15,3 +15,5 @@
 - [SQL 처리 과정과 I/O](docs/sql-process.md)
 
 - [인덱스 기본](docs/index-basic.md)
+
+- [인덱스 튜닝](docs/index-tuning.md)
