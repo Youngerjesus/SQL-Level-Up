@@ -1,4 +1,4 @@
-# SQL Level Up 
+# SQL Query Tuning 
 
 성능 좋은 SQL을 쓰는 방법과 대량의 데이터 처리에 맞는 SQL을 작성하는 방법에 대해 정리한 레파지토리 입니다.
 
@@ -14,6 +14,6 @@
 
 - [SQL 처리 과정과 I/O](docs/sql-process.md)
 
-- [인덱스 기본](docs/index-basic.md)
+- [인덱스 기본](docs/index/index-basic.md)
 
-- [인덱스 튜닝](docs/index-tuning.md)
+- [인덱스 튜닝](docs/index/index-tuning.md)
