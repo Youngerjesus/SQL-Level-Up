@@ -17,3 +17,5 @@
 - [인덱스 기본](docs/index/index-basic.md)
 
 - [인덱스 튜닝](docs/index/index-tuning.md)
+
+- [조인 튜닝](docs/join/join.md)
